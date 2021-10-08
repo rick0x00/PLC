@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 11)
+    (drawings 19)
     (tracks 0)
     (zones 0)
     (modules 0)
@@ -101,6 +101,14 @@
     (uvia_drill 0.1)
   )
 
+  (gr_circle (center 148 153) (end 146.5 153) (layer Edge.Cuts) (width 0.05))
+  (gr_circle (center 98 103) (end 96.5 103) (layer Edge.Cuts) (width 0.05))
+  (gr_circle (center 148 53) (end 146.5 53) (layer Edge.Cuts) (width 0.05))
+  (gr_circle (center 198 103) (end 196.5 103) (layer Edge.Cuts) (width 0.05))
+  (target plus (at 148 153) (size 5) (width 0.05) (layer Edge.Cuts) (tstamp 616056A2))
+  (target plus (at 148 53) (size 5) (width 0.05) (layer Edge.Cuts))
+  (target plus (at 198 103) (size 5) (width 0.05) (layer Edge.Cuts) (tstamp 6160568C))
+  (target plus (at 98 103) (size 5) (width 0.05) (layer Edge.Cuts))
   (gr_circle (center 148 103) (end 243 103) (layer B.SilkS) (width 0.12))
   (gr_circle (center 148 103) (end 243 103) (layer F.SilkS) (width 0.12))
   (gr_circle (center 148 103) (end 48 103) (layer B.SilkS) (width 0.12))
