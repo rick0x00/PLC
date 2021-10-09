@@ -2367,7 +2367,7 @@ U 1 1 6183892B
 P 10300 1100
 F 0 "C1" H 10418 1146 50  0000 L CNN
 F 1 "250V" H 10418 1055 50  0000 L CNN
-F 2 "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm" H 10338 950 50  0001 C CNN
+F 2 "Capacitor_THT:CP_Radial_D18.0mm_P7.50mm" H 10338 950 50  0001 C CNN
 F 3 "~" H 10300 1100 50  0001 C CNN
 	1    10300 1100
 	1    0    0    -1  
@@ -2397,13 +2397,13 @@ Wire Wire Line
 $Comp
 L Connector:Screw_Terminal_01x02 J2
 U 1 1 61AC5FE6
-P 10900 850
-F 0 "J2" H 10980 842 50  0000 L CNN
-F 1 "retified-output" H 10450 950 50  0000 L CNN
-F 2 "Connector_Phoenix_MC_HighVoltage:PhoenixContact_MC_1,5_2-G-5.08_1x02_P5.08mm_Horizontal" H 10900 850 50  0001 C CNN
-F 3 "~" H 10900 850 50  0001 C CNN
-	1    10900 850 
-	1    0    0    -1  
+P 10900 950
+F 0 "J2" H 10980 942 50  0000 L CNN
+F 1 "retified-output" H 10450 750 50  0000 L CNN
+F 2 "Connector_Phoenix_MC_HighVoltage:PhoenixContact_MC_1,5_2-G-5.08_1x02_P5.08mm_Horizontal" H 10900 950 50  0001 C CNN
+F 3 "~" H 10900 950 50  0001 C CNN
+	1    10900 950 
+	1    0    0    1   
 $EndComp
 $Comp
 L Connector:Screw_Terminal_01x02 J1
