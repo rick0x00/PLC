@@ -25,14 +25,6 @@ F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 9650 850 50  0001 C CNN
 	-1   0    0    -1  
 $EndComp
 Wire Wire Line
-	10000 1350 10050 1350
-Wire Wire Line
-	10050 1150 9800 1150
-Wire Wire Line
-	10000 1050 10050 1050
-Wire Wire Line
-	10050 850  9800 850 
-Wire Wire Line
 	9700 1050 9450 1050
 Wire Wire Line
 	9450 850  9500 850 
@@ -50,17 +42,6 @@ F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 9850 875 50  0001 C CNN
 F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 9850 1050 50  0001 C CNN
 	1    9850 1050
 	1    0    0    1   
-$EndComp
-$Comp
-L Diode:1N4007 D3
-U 1 1 61606D58
-P 9650 1150
-F 0 "D3" H 9800 1100 50  0000 C CNN
-F 1 "1N4007" H 9450 1100 50  0000 C CNN
-F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 9650 975 50  0001 C CNN
-F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 9650 1150 50  0001 C CNN
-	1    9650 1150
-	-1   0    0    -1  
 $EndComp
 $Comp
 L Diode:1N4007 D17
@@ -2007,8 +1988,6 @@ Wire Wire Line
 	5700 1800 5700 2150
 Wire Wire Line
 	5700 2150 5650 2150
-Wire Wire Line
-	10050 850  10050 1050
 Text GLabel 5850 600  2    50   Output ~ 0
 GROUP1
 Text GLabel 5850 700  2    50   Output ~ 0
@@ -2155,8 +2134,6 @@ Connection ~ 9450 850
 Wire Wire Line
 	9450 1350 9450 1150
 Wire Wire Line
-	10050 1350 10050 1150
-Wire Wire Line
 	9150 1350 9450 1350
 Connection ~ 9450 1350
 $Comp
@@ -2173,13 +2150,9 @@ $EndComp
 Wire Wire Line
 	10300 950  10300 850 
 Wire Wire Line
-	10300 850  10050 850 
-Connection ~ 10050 850 
-Wire Wire Line
 	10300 1250 10300 1350
 Wire Wire Line
-	10300 1350 10050 1350
-Connection ~ 10050 1350
+	10300 1350 10150 1350
 Wire Wire Line
 	10300 1850 10300 1350
 Connection ~ 10300 1350
@@ -2432,4 +2405,31 @@ Wire Wire Line
 	1100 2700 5750 2700
 Wire Wire Line
 	1100 2600 1200 2600
+Wire Wire Line
+	9800 850  10100 850 
+Wire Wire Line
+	10150 1050 10150 1350
+Wire Wire Line
+	10000 1050 10150 1050
+Connection ~ 10150 1350
+Wire Wire Line
+	10000 1350 10150 1350
+$Comp
+L Diode:1N4007 D3
+U 1 1 61606D58
+P 9650 1150
+F 0 "D3" H 9800 1100 50  0000 C CNN
+F 1 "1N4007" H 9450 1100 50  0000 C CNN
+F 2 "Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal" H 9650 975 50  0001 C CNN
+F 3 "http://www.vishay.com/docs/88503/1n4001.pdf" H 9650 1150 50  0001 C CNN
+	1    9650 1150
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	9800 1150 10100 1150
+Wire Wire Line
+	10100 1150 10100 850 
+Connection ~ 10100 850 
+Wire Wire Line
+	10100 850  10300 850 
 $EndSCHEMATC
