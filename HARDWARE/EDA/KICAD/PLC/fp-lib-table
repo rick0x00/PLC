@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name PLC_library)(type KiCad)(uri ${KIPRJMOD}/COMPLEMENTS/PLC_library.pretty)(options "")(descr ""))
-)

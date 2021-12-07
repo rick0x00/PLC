@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name PLC_Library)(type Legacy)(uri ${KIPRJMOD}/COMPLEMENTS/PLC_Library.lib)(options "")(descr ""))
-  (lib (name PLC-rescue)(type Legacy)(uri ${KIPRJMOD}/PLC-rescue.lib)(options "")(descr ""))
-)
