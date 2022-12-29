@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>/home/rick/Documents/HACKERMAN/GIT/MY/REMOTE/PUBLIC/PLC/HARDWARE/EDA/KICAD/PLC-MINI/SPLC.kicad_sch</source>
+    <date>ter 27 dez 2022 12:49:14</date>
+    <tool>Eeschema 6.0.2+dfsg-1</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title>Mini Circular LED Panel</title>
+        <company/>
+        <rev>1</rev>
+        <date>2022-04-20</date>
+        <source>SPLC.kicad_sch</source>
+        <comment number="1" value="Tec. Henrique Silva"/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="D1">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SPLC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e8ec03d5-ac27-47af-8fc6-05040833200c</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SPLC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2976cb0f-d1d0-445f-8136-be7943790a1c</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SPLC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>186d5985-01b8-4441-b826-59712c03da10</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SPLC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16e7eae1-4aa8-49ad-a050-42f776321864</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SPLC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>76b3b381-9e8c-4391-85c8-6b575e5f1cc1</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SPLC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f981648a-9051-4db0-ae04-701549d3961c</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SPLC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9cf6862a-c0fd-40f3-a4fa-9e9556bb2763</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SPLC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ed271cf0-3644-46cb-8a42-a46a5167bf3a</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SPLC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5343885e-a56d-46df-8968-f1f5b32b7a10</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SPLC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>96a17626-f9ee-4aee-8dac-6fab93984c00</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SPLC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ef28d6a2-a382-4d16-955e-9c520a9bdfd6</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>LED</value>
+      <footprint>LED_THT:LED_D5.0mm</footprint>
+      <libsource lib="Device" part="LED" description="Light emitting diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SPLC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bab5d8b6-6341-4364-b18b-98cc58031c55</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>Screw_Terminal_01x02</value>
+      <footprint>Connector_Phoenix_MC_HighVoltage:PhoenixContact_MCV_1,5_4-G-5.08_1x02_P5.08mm_Vertical</footprint>
+      <libsource lib="Connector" part="Screw_Terminal_01x02" description="Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SPLC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2c475c66-ee93-4e50-8863-e817f458956f</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>Rl 2W</value>
+      <footprint>Resistor_THT:R_Axial_DIN0411_L9.9mm_D3.6mm_P15.24mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="SPLC.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>00000000-0000-0000-0000-000061bad35c</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Screw_Terminal_01x02">
+      <description>Generic screw terminal, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TerminalBlock*:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Screw_Terminal_01x02</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="LED">
+      <description>Light emitting diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>LED*</fp>
+        <fp>LED_SMD:*</fp>
+        <fp>LED_THT:*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">LED</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>/usr/share/kicad/symbols//Connector.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>/usr/share/kicad/symbols//Device.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="Earth">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+    </net>
+    <net code="2" name="GND">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="3" name="Net-(D1-Pad1)">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="4" name="Net-(D3-Pad1)">
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="5" name="Net-(D5-Pad1)">
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="6" name="Net-(D7-Pad1)">
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="7" name="Net-(D10-Pad2)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+    </net>
+    <net code="8" name="Net-(D11-Pad1)">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+    </net>
+    <net code="9" name="Net-(R2-Pad2)">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="R2" pin="2" pintype="passive"/>
+    </net>
+    <net code="10" name="PWR">
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+  </nets>
+</export>
